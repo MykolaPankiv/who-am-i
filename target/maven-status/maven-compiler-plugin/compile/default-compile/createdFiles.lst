@@ -1,0 +1,5 @@
+com/eleks/academy/whoami/controller/GameController.class
+com/eleks/academy/whoami/WhoAmIApplication.class
+com/eleks/academy/whoami/entity/Game.class
+com/eleks/academy/whoami/service/DataInitializationService.class
+com/eleks/academy/whoami/repository/GameRepository.class
